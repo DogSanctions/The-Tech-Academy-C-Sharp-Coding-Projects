@@ -1,0 +1,7 @@
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\bin\Debug\TheTechAcademy.exe.config
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\bin\Debug\TheTechAcademy.exe
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\bin\Debug\TheTechAcademy.pdb
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\obj\Debug\TheTechAcademy.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\obj\Debug\TheTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\obj\Debug\TheTechAcademy.exe
+C:\Users\Jared\source\repos\TheTechAcademy\TheTechAcademy\obj\Debug\TheTechAcademy.pdb
