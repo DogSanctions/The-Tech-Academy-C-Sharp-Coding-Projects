@@ -1,0 +1,7 @@
+C:\Users\Jared\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\Jared\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\Jared\source\repos\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\Jared\source\repos\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\Jared\source\repos\MathApp\MathApp\obj\Debug\MathApp.pdb
