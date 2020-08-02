@@ -1,0 +1,6 @@
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\bin\Debug\AnonIncomeComparisonProgram.exe.config
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\bin\Debug\AnonIncomeComparisonProgram.exe
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\bin\Debug\AnonIncomeComparisonProgram.pdb
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\obj\Debug\AnonIncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\obj\Debug\AnonIncomeComparisonProgram.exe
+C:\Users\Jared\source\repos\AnonIncomeComparisonProgram\AnonIncomeComparisonProgram\obj\Debug\AnonIncomeComparisonProgram.pdb
