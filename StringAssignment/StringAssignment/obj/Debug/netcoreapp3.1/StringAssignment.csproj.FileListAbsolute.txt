@@ -1,0 +1,13 @@
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\Jared\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
