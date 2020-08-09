@@ -1,0 +1,6 @@
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\bin\Debug\BooleanComparisonAssignment2.exe.config
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\bin\Debug\BooleanComparisonAssignment2.exe
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\bin\Debug\BooleanComparisonAssignment2.pdb
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\obj\Debug\BooleanComparisonAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\obj\Debug\BooleanComparisonAssignment2.exe
+C:\Users\Jared\source\repos\BooleanComparisonAssignment2\BooleanComparisonAssignment2\obj\Debug\BooleanComparisonAssignment2.pdb
