@@ -1,0 +1,13 @@
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfo.cs
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.exe
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.deps.json
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.json
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+C:\Users\Jared\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.genruntimeconfig.cache
