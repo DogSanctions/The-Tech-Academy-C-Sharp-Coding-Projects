@@ -1,0 +1,7 @@
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\bin\Debug\HandlingAssignment1.exe.config
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\bin\Debug\HandlingAssignment1.exe
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\bin\Debug\HandlingAssignment1.pdb
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\obj\Debug\HandlingAssignment1.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\obj\Debug\HandlingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\obj\Debug\HandlingAssignment1.exe
+C:\Users\Jared\source\repos\HandlingAssignment1\HandlingAssignment1\obj\Debug\HandlingAssignment1.pdb
