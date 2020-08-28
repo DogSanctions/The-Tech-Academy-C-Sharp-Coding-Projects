@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http.Headers;
 
 namespace Operations
 {
@@ -9,39 +10,24 @@ namespace Operations
             return num + 10;
         }
 
-        public int SubTwo(int num)
+        public int AddTen(decimal num)
         {
-            return num - 2;
+            return Convert.ToInt32(num + 10);
         }
 
-        public int MultiEight(int num)
+        public int AddTen(string num)
         {
-            return num * 8;
-        }
+            try
+            {
+                int strVal = Int32.Parse(num);
+                return strVal + 10;
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine(e.Message);
+                return 0;
+            }
 
-        public int DivideTwelve(int num)
-        {
-            return num / 12;
-        }
-
-        public double dAddFive(double num)
-        {
-            return num + 5.5F;
-        }
-
-        public double dSubFour(double num)
-        {
-            return num + 4.3;
-        }
-
-        public double dModularSixteen(double num)
-        {
-            return num % 16.78;
-        }
-
-        public int sMultiNine(int num)
-        {
-            return num * 9;
         }
     }
 }
