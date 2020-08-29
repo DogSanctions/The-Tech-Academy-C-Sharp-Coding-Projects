@@ -1,0 +1,13 @@
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.exe
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.deps.json
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.runtimeconfig.json
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.dll
+C:\Users\Jared\source\repos\Assignment165\Assignment165\bin\Debug\netcoreapp3.1\Assignment165.pdb
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.AssemblyInfo.cs
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.dll
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.pdb
+C:\Users\Jared\source\repos\Assignment165\Assignment165\obj\Debug\netcoreapp3.1\Assignment165.genruntimeconfig.cache
