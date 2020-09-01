@@ -1,0 +1,13 @@
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.exe
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.deps.json
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.runtimeconfig.json
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.dll
+C:\Users\Jared\source\repos\Assignment221\Assignment221\bin\Debug\netcoreapp3.1\Assignment221.pdb
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.AssemblyInfo.cs
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.dll
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.pdb
+C:\Users\Jared\source\repos\Assignment221\Assignment221\obj\Debug\netcoreapp3.1\Assignment221.genruntimeconfig.cache
