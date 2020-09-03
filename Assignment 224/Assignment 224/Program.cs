@@ -15,7 +15,7 @@ namespace Assignment_224
             math.DivideMethod(userInput2);
             Console.WriteLine("Please enter a number");
             int userInput3 = Convert.ToInt32(Console.ReadLine());
-            math.OutputPara(userInput3);
+            StaticClass.OutputPara(userInput3); 
         }
     }
 }

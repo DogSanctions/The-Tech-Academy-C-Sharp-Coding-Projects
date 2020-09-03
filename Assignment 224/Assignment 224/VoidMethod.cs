@@ -17,8 +17,10 @@ namespace Assignment_224
             float result1 = num1 * 3;
             Console.WriteLine(result1);
         }
-
-        public void OutputPara(int num2)
+    }
+    public static class StaticClass
+    {
+        public static void OutputPara(int num2)
         {
             int intialParameter = num2;
             OutIntialParameter(out intialParameter);
