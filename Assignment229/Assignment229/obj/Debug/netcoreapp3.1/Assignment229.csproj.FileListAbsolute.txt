@@ -1,0 +1,13 @@
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.exe
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.deps.json
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.runtimeconfig.json
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.dll
+C:\Users\Jared\source\repos\Assignment229\Assignment229\bin\Debug\netcoreapp3.1\Assignment229.pdb
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.AssemblyInfo.cs
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.dll
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.pdb
+C:\Users\Jared\source\repos\Assignment229\Assignment229\obj\Debug\netcoreapp3.1\Assignment229.genruntimeconfig.cache
