@@ -5,15 +5,16 @@ using System.Text;
 
 namespace Assignment_240
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
-        public override void SayName()
+        public override string SayName()
         {
-            base.SayName();
+            return base.SayName();
         }
         public void Quit(Employee employee)
         {
-            Console.WriteLine("one of your employees has quit.");
+            
+            Console.WriteLine(employee.SayName() + " " + "has quit");
         }
     }
 }

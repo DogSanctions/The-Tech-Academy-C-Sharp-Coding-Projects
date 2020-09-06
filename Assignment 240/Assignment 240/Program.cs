@@ -7,16 +7,15 @@ namespace Assignment_240
     {
         static void Main(string[] args)
         {
-            Person obj = new Employee()
+            Employee obj = new Employee()
             {
                 firstName = "Sample",
                 lastName = "Student",
             };
             obj.SayName();
-            Employee employee = new Employee()
-            {                
-            };
-            employee.Quit(employee);
+            IQuittable quittable = new Employee();
+            quittable.Quit(obj);
+            Console.ReadLine();
         }
     }
 }

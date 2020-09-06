@@ -9,9 +9,9 @@ namespace Assignment_240
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void SayName()
+        public virtual string SayName()
         {
-            Console.WriteLine("Name: " + firstName + " " + lastName);
+            return "Name: " + firstName + " " + lastName;
         }
     }
 }
