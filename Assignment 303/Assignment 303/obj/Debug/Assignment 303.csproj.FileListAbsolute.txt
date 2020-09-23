@@ -1,0 +1,6 @@
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\bin\Debug\Assignment 303.dll
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\bin\Debug\Assignment 303.pdb
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\obj\Debug\Assignment 303.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\obj\Debug\Assignment 303.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\obj\Debug\Assignment 303.dll
+C:\Users\Jared\source\repos\Assignment 303\Assignment 303\obj\Debug\Assignment 303.pdb
