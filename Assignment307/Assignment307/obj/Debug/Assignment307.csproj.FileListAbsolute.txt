@@ -1,0 +1,7 @@
+C:\Users\Jared\source\repos\Assignment307\Assignment307\bin\Debug\Assignment307.exe.config
+C:\Users\Jared\source\repos\Assignment307\Assignment307\bin\Debug\Assignment307.exe
+C:\Users\Jared\source\repos\Assignment307\Assignment307\bin\Debug\Assignment307.pdb
+C:\Users\Jared\source\repos\Assignment307\Assignment307\obj\Debug\Assignment307.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment307\Assignment307\obj\Debug\Assignment307.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment307\Assignment307\obj\Debug\Assignment307.exe
+C:\Users\Jared\source\repos\Assignment307\Assignment307\obj\Debug\Assignment307.pdb
