@@ -11,7 +11,7 @@ namespace Assignment293
             Console.WriteLine("Please enter a number");
             int userInput = Convert.ToInt32(Console.ReadLine());
             DateTime todaysTime = DateTime.Now;
-            DateTime usersChange = todaysTime.AddTicks(userInput);
+            DateTime usersChange = todaysTime.AddHours(userInput);
             Console.WriteLine(usersChange);
             Console.ReadLine();
             
