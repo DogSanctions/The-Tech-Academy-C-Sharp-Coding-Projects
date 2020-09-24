@@ -1,0 +1,16 @@
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Jared\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
