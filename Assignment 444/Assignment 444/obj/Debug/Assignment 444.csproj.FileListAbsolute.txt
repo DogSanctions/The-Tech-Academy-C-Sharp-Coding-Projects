@@ -1,0 +1,12 @@
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\Assignment 444.exe.config
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\Assignment 444.exe
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\Assignment 444.pdb
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\EntityFramework.dll
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\EntityFramework.xml
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\obj\Debug\Assignment 444.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\obj\Debug\Assignment 444.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\obj\Debug\Assignment 444.csproj.CopyComplete
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\obj\Debug\Assignment 444.exe
+C:\Users\Jared\source\repos\Assignment 444\Assignment 444\obj\Debug\Assignment 444.pdb
