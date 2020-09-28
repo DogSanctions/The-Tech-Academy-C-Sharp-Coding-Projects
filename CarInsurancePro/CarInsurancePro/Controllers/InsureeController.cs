@@ -40,28 +40,57 @@ namespace CarInsurancePro.Controllers
         {
             return View();
         }
-        public ActionResult Quote()
-        {
 
-        }
         public ActionResult Admin()
         {
-            using (InsuranceEntities db = new InsuranceEntities())
-            {
-                var
-            }
-            return View();
+            return View(db.Insurees.ToList());
         }
         // POST: Insuree/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
+                int Quote = 50;
+                DateTime current = DateTime.Now;
+                int age = current.Year - insuree.DateOfBirth.Year;
+                if (age < 18)
+                {
+                    Quote = Quote + 100;
+                }
+                if (age >= 19 && age <= 25)
+                {
+                    Quote = Quote + 50;
+                }
+                if (insuree.CarYear < 2000)
+                {
+                    Quote = Quote + 25;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    Quote = Quote + 25;
+                }
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+                {
+                    Quote = Quote + 25;
+                }
+                if (insuree.SpeedingTickets > 0)
+                {
+                    Quote = Quote + 10*(insuree.SpeedingTickets);
+                }
+                if (insuree.DUI == true)
+                {
+                    Quote = Quote * 25 / 100;
+                }
+                if (insuree.CoverageType == true)
+                {
+                    Quote = Quote * 50 / 100;
+                }
+                insuree.Quote = Quote;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }

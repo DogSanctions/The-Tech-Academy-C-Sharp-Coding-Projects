@@ -215,6 +215,9 @@
     <Content Include="Views\Insuree\Details.cshtml" />
     <Content Include="Views\Insuree\Edit.cshtml" />
     <Content Include="Views\Insuree\Index.cshtml" />
+    <Content Include="Views\Insuree\Admin.cshtml">
+      <BrowseToURL>~/Insuree/Admin</BrowseToURL>
+    </Content>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
