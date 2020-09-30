@@ -55,7 +55,7 @@ namespace CarInsurancePro.Controllers
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
-                int Quote = 50;
+                decimal Quote = 50;
                 DateTime current = DateTime.Now;
                 int age = current.Year - insuree.DateOfBirth.Year;
                 if (age <= 18)
@@ -88,11 +88,11 @@ namespace CarInsurancePro.Controllers
                 }
                 if (insuree.DUI == true)
                 {
-                    Quote = Quote * 25 / 100;
+                    Quote *= 1.25m;
                 }
                 if (insuree.CoverageType == true)
                 {
-                    Quote = Quote * 50 / 100;
+                    Quote *= 1.50m;
                 }
                 insuree.Quote = Quote;
                 db.SaveChanges();
